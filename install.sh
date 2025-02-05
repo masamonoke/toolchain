@@ -45,3 +45,5 @@ else
     echo "Node.js is not installed."
 	brew_install_if_needed "node"
 fi
+
+brew_install_if_needed "fish"
